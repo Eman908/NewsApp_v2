@@ -1,6 +1,11 @@
 # newsapp2
 
-A new Flutter project.
+This is another version of News App with more options 
+
+#screenshots
+![Screenshot_20241130-130741](https://github.com/user-attachments/assets/c0e8f34e-d537-4bf3-bb2e-5b03ebaa5aa1)
+
+![Screenshot_20241130-130749](https://github.com/user-attachments/assets/2c5c5efa-653b-4743-94e5-996d36554680)
 
 ## Getting Started
 
