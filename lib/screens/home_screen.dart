@@ -31,7 +31,7 @@ class HomeScreen extends StatelessWidget {
           ),
         ),
         // body: NewsCard(),
-        body: TabsList(),
+        body: const TabsList(),
       ),
     );
   }
